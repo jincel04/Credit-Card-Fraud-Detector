@@ -1,0 +1,3 @@
+transactionId,userId,timestamp,amount,currency,merchant,merchantCategory,country,device,paymentMethod,status,isFraud
+CSV-1001,u001,2026-09-12T12:30:00.000Z,42.50,USD,FreshMart,Grocery,India,iPhone 15,Card,Approved,false
+CSV-1002,u001,2026-09-13T02:15:00.000Z,1250.00,USD,Orbital Tech,Electronics,Germany,Unknown device,Card,Held,true
